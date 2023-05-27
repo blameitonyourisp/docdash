@@ -1,0 +1,22 @@
+{
+  "name": "docdash",
+  "version": "0.0.1",
+  "description": "no description",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blameitonyourisp/docdash.git"
+  },
+  "keywords": [
+    "jsdoc"
+  ],
+  "author": "James Reid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blameitonyourisp/docdash/issues"
+  },
+  "homepage": "https://github.com/blameitonyourisp/docdash#readme"
+}
